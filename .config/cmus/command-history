@@ -1,0 +1,24 @@
+colorscheme green
+colorscheme gray-88
+colorscheme dracula
+colorscheme default
+colorscheme cyan
+colorscheme gruvbox
+colorscheme zenburn
+colorscheme xterm-white
+colorscheme solarized-dark
+colorscheme sol
+colorscheme night
+colorscheme jellybeans
+colorscheme green-mono-88
+wq
+colorscheme gruvbox-alt
+colorscheme random
+q
+add ~/music/
+add ~/music
+update
+help
+?
+add /home/me/music
+add /home/me/music/
