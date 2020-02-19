@@ -1,0 +1,77 @@
+{
+	"name": "popping-and-locking-vscode-black",
+	"displayName": "Popping and Locking Black Theme",
+	"description": "A variation of the original popping-and-locking theme that uses black as the primary background color",
+	"version": "1.1.7",
+	"publisher": "philsinatra",
+	"engines": {
+		"vscode": "^1.25.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"galleryBanner": {
+		"color": "#000000",
+		"theme": "dark"
+	},
+	"icon": "images/icon.png",
+	"tags": [
+		"js",
+		"jsx",
+		"osx",
+		"git",
+		"css",
+		"dark",
+		"blue",
+		"icon",
+		"scss",
+		"html",
+		"clean",
+		"green",
+		"macOS",
+		"vivid",
+		"theme",
+		"yellow",
+		"windows",
+		"orginal",
+		"balanced",
+		"saturated",
+		"beautiful",
+		"dark theme",
+		"color-theme",
+		"web development"
+	],
+	"screenshots": [
+		{
+			"path": "images/js.png"
+		},
+		{
+			"path": "images/scss.png"
+		},
+		{
+			"path": "images/html.png"
+		},
+		{
+			"path": "images/json.png"
+		}
+	],
+	"homepage": "https://github.com/philsinatra/popping-and-locking-vscode-black/blob/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/philsinatra/popping-and-locking-vscode-black.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Popping and Locking Black Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/popping-and-locking-black.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "d1b4c348-b276-414f-9f5e-d951102dd208",
+		"publisherId": "ee1ae119-5f58-4c1e-9274-290a7ad1d55f",
+		"publisherDisplayName": "Phil Sinatra"
+	}
+}
