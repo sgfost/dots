@@ -1,0 +1,26 @@
+loc_name=Mesa, Arizona
+lat=33.446499
+lon=-111.768501
+msl=0
+offset=-07:00
+cache_file_max_age=172800
+power_saving=true
+units_temperature=1
+units_pressure=2
+units_windspeed=1
+units_precipitation=1
+units_altitude=1
+model_apparent_temperature=0
+round=true
+single_row=true
+tooltip_style=1
+forecast_layout=1
+forecast_days=5
+scrollbox_animate=false
+theme_dir=/usr/share/xfce4/weather/icons/liquid
+show_scrollbox=true
+scrollbox_lines=1
+scrollbox_color=rgba(0,0,0,0)
+scrollbox_use_color=false
+label0=3
+

@@ -72,7 +72,7 @@
     <property name="unredirect_overlays" type="bool" value="true"/>
     <property name="urgent_blink" type="bool" value="false"/>
     <property name="use_compositing" type="bool" value="false"/>
-    <property name="workspace_count" type="int" value="4"/>
+    <property name="workspace_count" type="int" value="6"/>
     <property name="wrap_cycle" type="bool" value="true"/>
     <property name="wrap_layout" type="bool" value="true"/>
     <property name="wrap_resistance" type="int" value="10"/>
@@ -80,12 +80,14 @@
     <property name="wrap_workspaces" type="bool" value="false"/>
     <property name="zoom_desktop" type="bool" value="true"/>
     <property name="workspace_names" type="array">
-      <value type="string" value="  📁  "/>
-      <value type="string" value="🎧"/>
-      <value type="string" value="🔏"/>
-      <value type="string" value="📨"/>
-      <value type="string" value="🎮"/>
-      <value type="string" value="Workspace 6"/>
+      <value type="string" value=" ☕ "/>
+      <value type="string" value=" 📁 "/>
+      <value type="string" value=" 🌐 "/>
+      <value type="string" value=" 🔳 "/>
+      <value type="string" value=" 📮 "/>
+      <value type="string" value=" 📺 "/>
+      <value type="string" value="📮"/>
+      <value type="string" value=""/>
     </property>
     <property name="margin_top" type="int" value="0"/>
     <property name="margin_right" type="int" value="0"/>

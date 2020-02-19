@@ -1,1 +1,54 @@
-/home/me/projects/configs/dotfiles/common/.config/bspwm/bspwmrc
+#! /bin/sh
+
+sxhkd &
+
+# picom --config /dev/null -r 15 -l -15 -t -15 -o .7 -c
+
+# picom --config /dev/null -r 10 -l -10 -t -10 -c -o 1 --shadow-red 0 \
+# --shadow-green 0 --shadow-blue 0 -b --shadow-exclude "class_g='Rofi'"
+# nitrogen --head=0 --set-color=#05221e --set-zoom-fill ~/pictures/papes/desktop/2b0c4524fc741c59.jpg
+# nitrogen --head=1 --set-color=#05221e --set-zoom-fill ~/pictures/papes/desktop/2b0c4524fc741c59.jpg
+# polybar main &
+# polybar external &
+# nm-applet &
+# dunst &
+# xfce4-power-manager &
+# 
+# xset r rate 400 44
+xsetroot -cursor_name left_ptr
+
+bspc monitor LVDS-1 -d  ☕   📁   🌐   🔳 
+bspc monitor VGA-1 -d  📮   📺 
+
+bspc config border_width        5
+bspc config window_gap          15
+
+
+
+# Set the border colors.
+bspc config normal_border_color "#08090a"
+bspc config active_border_color "#0a0b0d"
+bspc config focused_border_color "#0a0b0d"
+bspc config presel_feedback_color "#0a0b0d"
+
+bspc config bottom_padding 0
+bspc config top_padding 28
+
+bspc config split_ratio          0.50
+bspc config gapless_monocle      false
+bspc config click_to_focus        true
+
+bspc config pointer_modifier mod1
+bspc config pointer_action2 resize_side
+bspc config pointer_action1 resize_corner
+bspc config pointer_action1 move
+
+bspc rule -a "feh" state=floating
+bspc rule -a "zathura" state=tiled
+bspc rule -a "xwinwrap" state=floating
+bspc rule -a "net-runelite-launcher-Launcher" state=floating
+bspc rule -a "xfce4-panel" layer=above
+bspc rule -a "gifview" state=floating
+
+# titlebar script
+# /home/me/.scripts/title.sh &

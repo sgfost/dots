@@ -1,1 +1,64 @@
-/home/me/projects/configs/dotfiles/common/.Xdefaults
+! urxvt*background: #00010D
+
+urxvt*letterSpace: 0
+
+urxvt*font: xft:RobotoMono Nerd Font:size=11, xft:Font Awesome
+urxvt*boldFont: xft:RobotoMono Nerd Font:size=11, xft:Font Awesome
+!urxvt*font: xft:Iosevka:size=12,xft:Unifont
+urxvt*scrollBar: false
+
+urxvt*internalBorder:  15
+urxvt*lineSpace: 0
+
+
+urxvt*perl-lib:            /usr/lib/urxvt/perl/
+urxvt*perl-ext-common:       ...,font-size,default,matcher
+urxvt*url-launcher:        /usr/bin/brave
+urxvt*matcher.button:        1
+
+urxvt*depth: 32
+*background:  #08090a
+!*foreground:  #ddccbc
+!*color0:  #573d26
+!*color1:  #be2e26
+!*color2:  #6ba18a
+!*color3:  #e99e2b
+!*color4:  #5985ac
+!*color5:  #ac7fa6
+!*color6:  #74a6ad
+!*color7:  #bba99a
+!*color8:  #9a6c4a
+!*color9:  #e94627
+!*color10:  #96d9ba
+!*color11:  #d0d151
+!*color12:  #b8d3ee
+!*color13:  #d19dcb
+!*color14:  #93cfd7
+!*color15:  #ddccbc
+
+
+*foreground: #ebdbb2
+! Black + DarkGrey
+*color0:  #282828
+*color8:  #928374
+! DarkRed + Red
+*color1:  #cc241d
+*color9:  #fb4934
+! DarkGreen + Green
+*color2:  #98971a
+*color10: #b8bb26
+! DarkYellow + Yellow
+*color3:  #d79921
+*color11: #fabd2f
+! DarkBlue + Blue
+*color4:  #458588
+*color12: #83a598
+! DarkMagenta + Magenta
+*color5:  #b16286
+*color13: #d3869b
+! DarkCyan + Cyan
+*color6:  #689d6a
+*color14: #8ec07c
+! LightGrey + White
+*color7:  #a89984
+*color15: #ebdbb2

@@ -1,1 +1,146 @@
-/home/me/projects/configs/dotfiles/common/.config/sxhkd/sxhkdrc
+###########################
+R wm independent hotkeys
+###########################
+
+
+
+##### MACROS ########
+super + 1
+	xdotool click 1
+
+# reload bspwmrc
+super + shift + r
+  /home/me/.config/bspwm/bspwmrc
+
+
+
+# terminal emulator
+super + Return
+	urxvt
+
+super + shift + Return
+	bspc rule -a \* -o state=floating && urxvt
+
+# terminal emulator (coding font)
+super + backslash
+  urxvt -fn 'xft:Iosevka:size=12' -fb 'xft:Iosevka:Bold:size=12'
+
+# rofi run
+super + slash
+	rofi -show run -theme darkpink -location 2 -yoffset 0
+
+
+# rofi window
+super + period
+	rofi -show window -theme darkpink -location 2 -yoffset 0
+
+
+# firefox
+super + i
+	brave
+
+# screenshot
+super + Print
+	xfce4-screenshooter -r
+
+# logout 
+super + shift + q
+  xfce4-session-logout
+#kill -9 -1
+
+# suspend
+super + shift + s
+  systemctl suspend
+
+# reboot
+super + shift + r + Escape
+  systemctl reboot
+
+###########################
+# bspwm hotkeys
+###########################
+
+# make sxhkd reload its configuration files
+super + Escape
+	pkill -USR1 -x sxhkd
+
+# reload bspwmrc configuration file
+super + b
+	pkill -USR1 -x bspwm
+
+# close window
+super + q
+	bspc node -c
+
+# also close window
+super + BackSpace
+	bspc node -c
+
+# move focused window to the next workspace and then switch to that workspace
+super + shift + {Left,Right}
+	id=$(bspc query --nodes --node); bspc node --to-desktop {prev,next}; bspc desktop --focus next; bspc node --focus ${id}
+
+# set the node flag to private
+#super + p
+#bspc node -g private
+
+# === function keys ===
+
+# rotate windows
+super + F1
+	bspc node @/ -R 90
+
+# circulate windows
+super + F2
+	bspc node @/ -C forward
+
+# flip windows horizontal
+super + F3
+	bspc node @/ -F horizontal
+
+# flip windows vertical
+super + F4
+	bspc node @/ -F vertical
+
+# superernate between the tiled and monocle layout
+super + F5
+	bspc desktop -l next
+
+# balance windows
+super + F6
+	bspc node @/ -B
+
+# unbalance windows
+super + shift + F6
+	bspc node @/ -E
+
+# Change window gap
+super + {F7,F8}
+	bspc config -d focused window_gap $((`bspc config -d focused window_gap` {+,-} 2 ))
+	# TODO: keep top padding in line with current window gap
+	
+
+# resize window
+super + shift + {s,d}
+	bspc node -z {bottom,right} 20 20
+
+super + shift + {w,a}
+	bspc node -z {top,left} -20 -20
+
+# set the window state
+super + {F9,F10,F11,F12}
+	bspc node -t {floating,tiled,pseudo_tiled,fullscreen}
+
+# === focus/swap ===
+
+# focus the next/previous node
+super + {Up,Down}
+	bspc node -f {prev,next}.local.!above
+
+# focus direction
+super + {w,a,s,d}
+	bspc node -f {north, west, south, east}
+
+# focus the next/previous desktop
+super + {Left,Right}
+	bspc desktop -f {prev,next}

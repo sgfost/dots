@@ -6,6 +6,7 @@
       <value type="string" value="discord"/>
       <value type="string" value="nm-applet"/>
       <value type="string" value="notify-send"/>
+      <value type="string" value="Spotify"/>
       <value type="string" value="Xfce volume control"/>
       <value type="string" value="Xfce4-notifyd settings"/>
     </property>
@@ -17,5 +18,5 @@
   <property name="initial-opacity" type="double" value="1.000000"/>
   <property name="expire-timeout" type="int" value="5"/>
   <property name="do-slideout" type="bool" value="false"/>
-  <property name="do-fadeout" type="bool" value="false"/>
+  <property name="do-fadeout" type="bool" value="true"/>
 </channel>
