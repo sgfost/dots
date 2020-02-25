@@ -2,7 +2,7 @@
   bg: #08090a;
   fg: #ebdbb2;
   pink: #8e5564;
-font: "Ubuntu Regular 12";
+font: "IBM Plex Sans Regular 12";
   background-color: @bg;
   text-color: @fg;
   width: 300px;

@@ -6,13 +6,13 @@ Click_Command=urxvt -e bash -c "gtop"
 [SL_Cpu]
 Enabled=true
 Use_Label=true
-Color=rgb(136,138,133)
+Color=rgb(148,80,58)
 Text=cpu
 
 [SL_Mem]
 Enabled=true
 Use_Label=true
-Color=rgb(136,138,133)
+Color=rgb(148,80,58)
 Text=mem
 
 [SL_Swap]

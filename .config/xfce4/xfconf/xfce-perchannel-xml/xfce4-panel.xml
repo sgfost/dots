@@ -10,7 +10,7 @@
     <value type="int" value="6"/>
     <property name="panel-1" type="empty">
       <property name="position" type="string" value="p=6;x=160;y=15"/>
-      <property name="size" type="uint" value="28"/>
+      <property name="size" type="uint" value="24"/>
       <property name="mode" type="uint" value="0"/>
       <property name="output-name" type="string" value="LVDS-1"/>
       <property name="position-locked" type="bool" value="true"/>
@@ -27,9 +27,9 @@
       </property>
       <property name="background-style" type="uint" value="1"/>
       <property name="background-rgba" type="array">
-        <value type="double" value="0.368627"/>
-        <value type="double" value="0.462745"/>
-        <value type="double" value="0.462745"/>
+        <value type="double" value="0.709804"/>
+        <value type="double" value="0.470588"/>
+        <value type="double" value="0.392157"/>
         <value type="double" value="1.000000"/>
       </property>
       <property name="icon-size" type="uint" value="16"/>
@@ -38,7 +38,7 @@
     </property>
     <property name="panel-3" type="empty">
       <property name="position" type="string" value="p=2;x=1440;y=15"/>
-      <property name="size" type="uint" value="28"/>
+      <property name="size" type="uint" value="24"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="13"/>
         <value type="int" value="2"/>
@@ -46,9 +46,9 @@
       </property>
       <property name="background-style" type="uint" value="1"/>
       <property name="background-rgba" type="array">
-        <value type="double" value="0.156863"/>
-        <value type="double" value="0.156863"/>
-        <value type="double" value="0.156863"/>
+        <value type="double" value="0.709804"/>
+        <value type="double" value="0.470588"/>
+        <value type="double" value="0.392157"/>
         <value type="double" value="1.000000"/>
       </property>
       <property name="length" type="uint" value="20"/>
@@ -58,12 +58,12 @@
     </property>
     <property name="panel-4" type="empty">
       <property name="position" type="string" value="p=11;x=480;y=17"/>
-      <property name="size" type="uint" value="28"/>
+      <property name="size" type="uint" value="24"/>
       <property name="background-style" type="uint" value="1"/>
       <property name="background-rgba" type="array">
-        <value type="double" value="0.317647"/>
-        <value type="double" value="0.380392"/>
-        <value type="double" value="0.396078"/>
+        <value type="double" value="0.709804"/>
+        <value type="double" value="0.470588"/>
+        <value type="double" value="0.392157"/>
         <value type="double" value="1.000000"/>
       </property>
       <property name="length" type="uint" value="20"/>
@@ -77,14 +77,14 @@
     </property>
     <property name="panel-5" type="empty">
       <property name="position" type="string" value="p=11;x=1120;y=18"/>
-      <property name="size" type="uint" value="28"/>
+      <property name="size" type="uint" value="24"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="length" type="uint" value="20"/>
       <property name="background-style" type="uint" value="1"/>
       <property name="background-rgba" type="array">
-        <value type="double" value="0.219608"/>
-        <value type="double" value="0.223529"/>
-        <value type="double" value="0.239216"/>
+        <value type="double" value="0.709804"/>
+        <value type="double" value="0.470588"/>
+        <value type="double" value="0.392157"/>
         <value type="double" value="1.000000"/>
       </property>
       <property name="plugin-ids" type="array">
@@ -92,17 +92,18 @@
         <value type="int" value="7"/>
         <value type="int" value="4"/>
       </property>
+      <property name="icon-size" type="uint" value="11"/>
     </property>
     <property name="panel-6" type="empty">
       <property name="position" type="string" value="p=9;x=807;y=15"/>
-      <property name="size" type="uint" value="28"/>
+      <property name="size" type="uint" value="24"/>
       <property name="length" type="uint" value="20"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="background-style" type="uint" value="1"/>
       <property name="background-rgba" type="array">
-        <value type="double" value="0.270588"/>
-        <value type="double" value="0.298039"/>
-        <value type="double" value="0.321569"/>
+        <value type="double" value="0.710000"/>
+        <value type="double" value="0.469835"/>
+        <value type="double" value="0.390500"/>
         <value type="double" value="1.000000"/>
       </property>
       <property name="plugin-ids" type="array">
@@ -116,6 +117,9 @@
     <property name="plugin-3" type="string" value="power-manager-plugin"/>
     <property name="plugin-8" type="string" value="systray">
       <property name="names-ordered" type="array">
+        <value type="string" value="thunar"/>
+        <value type="string" value="redshift-gtk"/>
+        <value type="string" value="obs"/>
         <value type="string" value="ferdi"/>
         <value type="string" value="vlc"/>
         <value type="string" value="xfce4-power-manager"/>
@@ -140,7 +144,8 @@
     </property>
     <property name="plugin-31" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="chromium.instance119394;chromium.instance120924;chromium.instance122335;chromium.instance1350;chromium.instance13530;chromium.instance1386;chromium.instance1466;chromium.instance37354;chromium.instance4151;chromium.instance44335;chromium.instance49025;chromium.instance52837;chromium.instance58087;chromium.instance60516;chromium.instance6342;chromium.instance64062;cmus;spotify;vlc"/>
+      <property name="mpris-players" type="string" value="chromium.instance10839;chromium.instance119394;chromium.instance120924;chromium.instance122335;chromium.instance1350;chromium.instance13530;chromium.instance1386;chromium.instance145246;chromium.instance1466;chromium.instance147830;chromium.instance152087;chromium.instance157295;chromium.instance172188;chromium.instance17424;chromium.instance2199;chromium.instance23769;chromium.instance29169;chromium.instance37354;chromium.instance3852;chromium.instance4045;chromium.instance4151;chromium.instance44335;chromium.instance4891;chromium.instance49025;chromium.instance52837;chromium.instance58087;chromium.instance59772;chromium.instance60516;chromium.instance62393;chromium.instance6342;chromium.instance64062;cmus;spotify;vlc"/>
+      <property name="enable-wnck" type="bool" value="false"/>
     </property>
     <property name="plugin-2" type="string" value="pager">
       <property name="rows" type="uint" value="1"/>

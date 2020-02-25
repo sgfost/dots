@@ -27,8 +27,9 @@ set mouse=a
 set guicursor+=n:blinkon1
 
 " my colors
-syntax enable
-let g:colorscheme='gruvbox'
+syntax on
+colorscheme gruvbox
+hi Normal ctermbg=NONE
 " hi Comment ctermfg=0
 " hi Constant ctermfg=1
 " hi Special ctermfg=5

@@ -6,12 +6,12 @@
       <property name="monitorLVDS-1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
-          <property name="image-style" type="int" value="0"/>
-          <property name="last-image" type="string" value="/home/me/pictures/papes/desktop/d5800db901a9606c.jpg"/>
+          <property name="image-style" type="int" value="2"/>
+          <property name="last-image" type="string" value="/home/me/pictures/paper/paper-texture-1.jpg"/>
           <property name="rgba1" type="array">
-            <value type="double" value="0.031373"/>
-            <value type="double" value="0.035294"/>
-            <value type="double" value="0.039216"/>
+            <value type="double" value="0.803333"/>
+            <value type="double" value="0.803333"/>
+            <value type="double" value="0.803333"/>
             <value type="double" value="1.000000"/>
           </property>
         </property>
@@ -54,8 +54,8 @@
       <property name="monitorVGA-1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
-          <property name="image-style" type="int" value="0"/>
-          <property name="last-image" type="string" value="/home/me/pictures/papes/desktop/d5800db901a9606c.jpg"/>
+          <property name="image-style" type="int" value="2"/>
+          <property name="last-image" type="string" value="/home/me/pictures/paper/paper-texture-1.jpg"/>
           <property name="rgba1" type="array">
             <value type="double" value="0.031373"/>
             <value type="double" value="0.035294"/>
@@ -112,7 +112,7 @@
     <property name="single-click" type="bool" value="false"/>
   </property>
   <property name="last" type="empty">
-    <property name="window-width" type="int" value="732"/>
-    <property name="window-height" type="int" value="656"/>
+    <property name="window-width" type="int" value="830"/>
+    <property name="window-height" type="int" value="675"/>
   </property>
 </channel>

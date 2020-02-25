@@ -2,9 +2,9 @@
 
 urxvt*letterSpace: 0
 
-urxvt*font: xft:RobotoMono Nerd Font:size=11, xft:Font Awesome
-urxvt*boldFont: xft:RobotoMono Nerd Font:size=11, xft:Font Awesome
-!urxvt*font: xft:Iosevka:size=12,xft:Unifont
+!urxvt*font: xft:IBM Plex Mono:Regular:size=11, xft:RobotoMono Nerd Font:size=11
+!urxvt*boldFont: xft:IBM Plex Mono:Regular:size=11, xft:RobotoMono Nerd Font:size=11
+urxvt*font: xft:iA Writer Mono S:size=11, xft:Font Awesome:size=11
 urxvt*scrollBar: false
 
 urxvt*internalBorder:  15

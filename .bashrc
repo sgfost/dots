@@ -220,3 +220,11 @@ then
 fi
 alias config='/usr/bin/git --git-dir=/home/me/.cfg/ --work-tree=/home/me'
 alias config='/usr/bin/git --git-dir=/home/me/.dots/ --work-tree=/home/me'
+
+
+# editor = nvim
+export EDITOR=nvim
+
+
+# todo program
+alias todo='/home/me/programs/todo/todo.sh'
