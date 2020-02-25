@@ -3,9 +3,11 @@
 ## info:
 - xfce4 as desktop environment
 - bspwm as window manager
-- gtk theme included
-- lockscreen theme (lightdm-tiny-greeter)
-- other stuff (init.vim, .bashrc, etc)
+- gtk theme
+- nvim stuff
+- vscode stuff
+- lockscreen theme
+- etc
 
 ## screenshots:
 
