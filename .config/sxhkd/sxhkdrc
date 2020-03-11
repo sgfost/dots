@@ -13,7 +13,6 @@ super + shift + r
   /home/me/.config/bspwm/bspwmrc
 
 
-
 # terminal emulator
 super + Return
 	urxvt
@@ -27,12 +26,12 @@ super + backslash
 
 # rofi run
 super + slash
-	rofi -show run -theme darkpink -location 2 -yoffset 0
+	rofi -show run -theme darkpink -location 1 -yoffset 30
 
 
 # rofi window
 super + period
-	rofi -show window -theme darkpink -location 2 -yoffset 0
+	rofi -show window -theme darkpink -location 1 -yoffset 30
 
 
 # firefox

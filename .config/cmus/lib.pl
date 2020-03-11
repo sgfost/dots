@@ -37,6 +37,14 @@
 /home/me/music/Terminal 00 Sounds v1/wind.mp3
 /home/me/music/Terminal 00 Sounds v1/wordswords.mp3
 /home/me/music/Terminal 00 Sounds v1/wwa.mp3
+/home/me/music/user18081971/scspch.wav
+/home/me/music/user48736353001/CHEETAHT7 teac.wav
+/home/me/music/user48736353001/DIGISND80T2[digisound Modular VCDO's comp examples1.wav
+/home/me/music/user48736353001/@FX-chatterwavesTRIXT2.wav
+/home/me/music/user48736353001/lecce-voltage controlled acoustic resonators.wav
+/home/me/music/user48736353001/nqz11 fucked pwm fb edit+6.wav
+/home/me/music/user48736353001/nqz3 singing chaos montage+6.wav
+/home/me/music/pieces de clavecin cd 2/06 pieces de clavecin (1724) - les cyclopes (rondeau).mp3
 /home/me/music/Terminal 00 Sounds v1/sc.mp3
 /home/me/music/Terminal 00 Sounds v1/s.mp3
 /home/me/music/Terminal 00 Sounds v1/Noise2.mp3
@@ -47,6 +55,25 @@
 /home/me/music/Terminal 00 Sounds v1/ghgh.mp3
 /home/me/music/Terminal 00 Sounds v1/heh.mp3
 /home/me/music/Folk And Pop Sounds Of Sumatra Vol.2/16 Usah Dikenang.mp3
+/home/me/music/_..I Care Because You Do (2017)/I Care Because You Do-001-Aphex Twin-Acrid Avid Jam Shred.aiff
+/home/me/music/_..I Care Because You Do (2017)/I Care Because You Do-002-Aphex Twin-The Waxen Pith.aiff
+/home/me/music/_..I Care Because You Do (2017)/I Care Because You Do-003-Aphex Twin-Wax The Nip.aiff
+/home/me/music/_..I Care Because You Do (2017)/I Care Because You Do-004-Aphex Twin-Icct Hedral.aiff
+/home/me/music/_..I Care Because You Do (2017)/I Care Because You Do-005-Aphex Twin-Ventolin (Video Edit).aiff
+/home/me/music/_..I Care Because You Do (2017)/I Care Because You Do-006-Aphex Twin-Come On You Slags.aiff
+/home/me/music/_..I Care Because You Do (2017)/I Care Because You Do-007-Aphex Twin-Start As You Mean To Go On.aiff
+/home/me/music/_..I Care Because You Do (2017)/I Care Because You Do-008-Aphex Twin-Wet Tip Hen Ax.aiff
+/home/me/music/_..I Care Because You Do (2017)/I Care Because You Do-009-Aphex Twin-Mookid.aiff
+/home/me/music/_..I Care Because You Do (2017)/I Care Because You Do-010-Aphex Twin-Alberto Balsam.aiff
+/home/me/music/_..I Care Because You Do (2017)/I Care Because You Do-011-Aphex Twin-Cow Cud Is A Twin.aiff
+/home/me/music/_..I Care Because You Do (2017)/I Care Because You Do-012-Aphex Twin-Next Heap With.aiff
+/home/me/music/_..I Care Because You Do (2017)/I Care Because You Do-013-Aphex Twin-sekonda e,+2.aiff
+/home/me/music/_..I Care Because You Do (2017)/I Care Because You Do-014-Aphex Twin-efil pearls ,e,+4.aiff
+/home/me/music/_..I Care Because You Do (2017)/I Care Because You Do-015-Aphex Twin-winding road ,e,+41.aiff
+/home/me/music/_..I Care Because You Do (2017)/I Care Because You Do-016-Aphex Twin-consta-lume.aiff
+/home/me/music/_..I Care Because You Do (2017)/I Care Because You Do-017-Aphex Twin-consciousness utopia.aiff
+/home/me/music/_..I Care Because You Do (2017)/I Care Because You Do-018-Aphex Twin-no cares [48k ].aiff
+/home/me/music/_..I Care Because You Do (2017)/I Care Because You Do-019-Aphex Twin-with my family [48k].aiff
 /home/me/music/aphex twin - Richard D. James Album [WPCR-928] [Warner Music - Japan]/01 - Aphex Twin - 4.mp3
 /home/me/music/aphex twin - Richard D. James Album [WPCR-928] [Warner Music - Japan]/02 - Aphex Twin - Cornish Acid.mp3
 /home/me/music/aphex twin - Richard D. James Album [WPCR-928] [Warner Music - Japan]/03 - Aphex Twin - Peek 824545201.mp3
@@ -62,6 +89,241 @@
 /home/me/music/aphex twin - Richard D. James Album [WPCR-928] [Warner Music - Japan]/13 - Aphex Twin - GirlBoy Song (Ł18 Snare Rush.mp3
 /home/me/music/aphex twin - Richard D. James Album [WPCR-928] [Warner Music - Japan]/14 - Aphex Twin - Beetles.mp3
 /home/me/music/aphex twin - Richard D. James Album [WPCR-928] [Warner Music - Japan]/15 - Aphex Twin - GirlBoy Song (Redruth Mix).mp3
+/home/me/music/user18081971/4 voice solo 1 teac.mp3
+/home/me/music/user18081971/4 voice solo 2 teac.mp3
+/home/me/music/user18081971/alien fanny farts AB2 q.mp3
+/home/me/music/user18081971/boxenergy4remix1.mp3
+/home/me/music/user18081971/casio rz1 sound collection sideA [DIGITAL SAMPLING RHYTHM COMPOSER].m4a
+/home/me/music/user18081971/casio rz1 sound collection sideA [DIGITAL SAMPLING RHYTHM COMPOSER] twatcut.aiff
+/home/me/music/user18081971/casio rz1 sound collection sideB [DIGITAL SAMPLING RHYTHM COMPOSER] twatcut.aiff
+/home/me/music/user18081971/harmonicom.mp3
+/home/me/music/user18081971/harmonicom 13   Saw2 CD1 Trk2 [Original Mix].mp3
+/home/me/music/user18081971/his eyes eq.mp3
+/home/me/music/user18081971/I want to be with you[afx editional][a side][edward'get down' crosby mix] [88]-street side boyz [prod master c&j, writ c&j [for get down productions][ss-102]+3db.mp3
+/home/me/music/user18081971/katiacid.mp3
+/home/me/music/user18081971/katieparty n+4.mp3
+/home/me/music/user18081971/modal 10.mp3
+/home/me/music/user18081971/NgãiModu-bradley stryder.mp3
+/home/me/music/user18081971/noddy.mp3
+/home/me/music/user18081971/octave nob.mp3
+/home/me/music/user18081971/pianopkupt1 [norm].mp3
+/home/me/music/user18081971/[prev.]lost track [dat 24] Icbyd.aiff
+/home/me/music/user18081971/T17 Phase Out.aiff
+/home/me/music/user18081971/th1 [evnslower].mp3
+/home/me/music/user18081971/user18081971 (Aphex Twin) - tnodvood104.mp3
+/home/me/music/user18081971/5 window peeper+6.mp3
+/home/me/music/user48736353001/10 inthesky.mp3
+/home/me/music/user48736353001/11 flabbard [DAT14].mp3
+/home/me/music/user48736353001/11 phlid.mp3
+/home/me/music/user48736353001/13 phukup2.mp3
+/home/me/music/user48736353001/14 cornish spreek5b [St. Nectan_s Glen Waterfalls mix].mp3
+/home/me/music/user48736353001/14 floating∞.mp3
+/home/me/music/user48736353001/15 autumn travels.mp3
+/home/me/music/user48736353001/1.5 dp5 beats.mp3
+/home/me/music/user48736353001/15 sekonda.mp3
+/home/me/music/user48736353001/16 shit squidge.mp3
+/home/me/music/user48736353001/179 brk 2.mp3
+/home/me/music/user48736353001/17 elb1.mp3
+/home/me/music/user48736353001/17 messy.mp3
+/home/me/music/user48736353001/18 1974_94.mp3
+/home/me/music/user48736353001/18 elb2.mp3
+/home/me/music/user48736353001/18 mello punchy.mp3
+/home/me/music/user48736353001/18 ssbA.mp3
+/home/me/music/user48736353001/19 bradley echoes.mp3
+/home/me/music/user48736353001/19 winding road.mp3
+/home/me/music/user48736353001/1 lmt.mp3
+/home/me/music/user48736353001/1 metal gate.mp3
+/home/me/music/user48736353001/21 gak police.mp3
+/home/me/music/user48736353001/22 gak bass.mp3
+/home/me/music/user48736353001/22 string slush.mp3
+/home/me/music/user48736353001/23 band pass beat slo.mp3
+/home/me/music/user48736353001/23 lush acid.mp3
+/home/me/music/user48736353001/23 pianox.mp3
+/home/me/music/user48736353001/24 alias mgroove.mp3
+/home/me/music/user48736353001/24 casiotribaltronics2 mfm.mp3
+/home/me/music/user48736353001/24 triple d.mp3
+/home/me/music/user48736353001/24 tsim 2.mp3
+/home/me/music/user48736353001/25 grogphlange.mp3
+/home/me/music/user48736353001/26 subbassjzzYvEntolins.mp3
+/home/me/music/user48736353001/27 dondo.mp3
+/home/me/music/user48736353001/27 leaving home-bradley.mp3
+/home/me/music/user48736353001/2 bradley un.mp3
+/home/me/music/user48736353001/2 custom break acid.mp3
+/home/me/music/user48736353001/2 fogbeak.mp3
+/home/me/music/user48736353001/30 dolby c.mp3
+/home/me/music/user48736353001/30 ms short.mp3
+/home/me/music/user48736353001/31 lifetrak2 eqTeac.mp3
+/home/me/music/user48736353001/32 venus squidge.mp3
+/home/me/music/user48736353001/33 jonny hawkes broken guitar[not finished].mp3
+/home/me/music/user48736353001/33 SAW II un stabbing interview.mp3
+/home/me/music/user48736353001/33 synthi rhy [q].mp3
+/home/me/music/user48736353001/34 ibiza spliffs.mp3
+/home/me/music/user48736353001/35 SAW II un road shimmer f.mp3
+/home/me/music/user48736353001/36 natalie,jane,me ,hawke [imperial ring].mp3
+/home/me/music/user48736353001/36 shroommdot [miCro3] [8th dimension transmission].mp3
+/home/me/music/user48736353001/37 last clissold maybe.mp3
+/home/me/music/user48736353001/3 organ velocity.mp3
+/home/me/music/user48736353001/3 slothscrape.mp3
+/home/me/music/user48736353001/3 s-tral.mp3
+/home/me/music/user48736353001/4 acid organ[rough mix].mp3
+/home/me/music/user48736353001/4 frequency transmitter.mp3
+/home/me/music/user48736353001/5 5. 36 clissold crescent [above the kitchen] mp2.mp3
+/home/me/music/user48736353001/5 7z.mp3
+/home/me/music/user48736353001/5 african rhyt.mp3
+/home/me/music/user48736353001/5 just fall asleep.mp3
+/home/me/music/user48736353001/5 ohhuds.mp3
+/home/me/music/user48736353001/5 scorrier [101 rainbows].mp3
+/home/me/music/user48736353001/6 backdrop trigger.mp3
+/home/me/music/user48736353001/6 gear smudge.mp3
+/home/me/music/user48736353001/6 RANDOM FX.mp3
+/home/me/music/user48736353001/7 dub cliker + 0hz.mp3
+/home/me/music/user48736353001/7 summer festival love in the country.mp3
+/home/me/music/user48736353001/8 glock+onion.mp3
+/home/me/music/user48736353001/8 MTG edit eq.mp3
+/home/me/music/user48736353001/9 spectrum.mp3
+/home/me/music/user48736353001/9 summer2.mp3
+/home/me/music/user48736353001/9 un chopped f beginning [SAWII un].mp3
+/home/me/music/user48736353001/asthma1.mp3
+/home/me/music/user48736353001/blue carpet.mp3
+/home/me/music/user48736353001/carn marth [longerbit].mp3
+/home/me/music/user48736353001/cheetah3 teac.mp3
+/home/me/music/user48736353001/cooltempoDemo2.mp3
+/home/me/music/user48736353001/cottage3 e.mp3
+/home/me/music/user48736353001/cottage4 af 1.mp3
+/home/me/music/user48736353001/d14-26 soahcie2.mp3
+/home/me/music/user48736353001/d15-10 dulcimer dub.mp3
+/home/me/music/user48736353001/d15-8 ny groove2.mp3
+/home/me/music/user48736353001/d17-5 synth bonus beats.mp3
+/home/me/music/user48736353001/dsb.mp3
+/home/me/music/user48736353001/(HAB un23).mp3
+/home/me/music/user48736353001/hilo.mp3
+/home/me/music/user48736353001/jcj868e.mp3
+/home/me/music/user48736353001/(mature raver ).mp3
+/home/me/music/user48736353001/medievil rave mk2.mp3
+/home/me/music/user48736353001/MODULART2 [tubeRezswirl2].aif
+/home/me/music/user48736353001/MODULART3 [schmoo pulse]+e.aiff
+/home/me/music/user48736353001/MODULART4 [sprectral modblur1].aif
+/home/me/music/user48736353001/mortal  08.mp3
+/home/me/music/user48736353001/(mortal 1).mp3
+/home/me/music/user48736353001/mulberry bush.mp3
+/home/me/music/user48736353001/nightmail.mp3
+/home/me/music/user48736353001/notting hill bus.mp3
+/home/me/music/user48736353001/nutcrapper.mp3
+/home/me/music/user48736353001/phonge.mp3
+/home/me/music/user48736353001/pretend analog extmix 2b.mp3
+/home/me/music/user48736353001/rebrab.mp3
+/home/me/music/user48736353001/T08+4.mp3
+/home/me/music/user48736353001/T13  quadraverb.mp3
+/home/me/music/user48736353001/tamclap2.mp3
+/home/me/music/user48736353001/(taut ).mp3
+/home/me/music/user48736353001/th1 [slo].mp3
+/home/me/music/user48736353001/(watery big ez).mp3
+/home/me/music/user48736353001/(throatie).mp3
+/home/me/music/user48736353001/tigercubdelay.mp3
+/home/me/music/user48736353001/03 th1.mp3
+/home/me/music/user48736353001/05 5 heliosphan live.mp3
+/home/me/music/user48736353001/1-01 8 Utopia.mp3
+/home/me/music/user48736353001/1-03 22 Pearls.mp3
+/home/me/music/user48736353001/1-04 Quad Rave TEAC.mp3
+/home/me/music/user48736353001/1-07 20 Pink Floyd.mp3
+/home/me/music/user48736353001/1-08 Parking Lot.mp3
+/home/me/music/user48736353001/1-09 1 Chink 101.mp3
+/home/me/music/user48736353001/1-10 24 Squalitude Acid.mp3
+/home/me/music/user48736353001/1-11 SomewhereOTTGTBAG.mp3
+/home/me/music/user48736353001/1-12 ThnxU4letinMeStyWitU.mp3
+/home/me/music/user48736353001/1-13 X - Rays.mp3
+/home/me/music/user48736353001/1-15 SallyVingoe.mp3
+/home/me/music/user48736353001/1-17 16 Fresher + Cleaner.mp3
+/home/me/music/user48736353001/1-19 GPO Beat.mp3
+/home/me/music/user48736353001/1-20 Pump The Shit.mp3
+/home/me/music/user48736353001/1-21 Plinkyplonk.mp3
+/home/me/music/user48736353001/1-23 9 Square Dance.mp3
+/home/me/music/user48736353001/1-24 10 Bcr78.mp3
+/home/me/music/user48736353001/1-25 40 Lannerlush Full.mp3
+/home/me/music/user48736353001/1-26 39 Fnkmg.mp3
+/home/me/music/user48736353001/1-27 Renalgade Sonar.mp3
+/home/me/music/user48736353001/2-01 17 Kids Beach.mp3
+/home/me/music/user48736353001/2-02 Martins Car LPF.mp3
+/home/me/music/user48736353001/2-03 1 Human Rotation.mp3
+/home/me/music/user48736353001/2-04 6 Plinky Plonk[orig].mp3
+/home/me/music/user48736353001/2-05 8 Knife Fork Freq.mp3
+/home/me/music/user48736353001/2-06 mooow [Dixons Theft mix].mp3
+/home/me/music/user48736353001/2-07 Mental Telepathy.mp3
+/home/me/music/user48736353001/2-08 Dance2thebeat.mp3
+/home/me/music/user48736353001/2-09 34.5 P.e.mp3
+/home/me/music/user48736353001/2-10 glockenspiel TEAC.mp3
+/home/me/music/user48736353001/2-11 Archponf.mp3
+/home/me/music/user48736353001/2-12 Catsquidge2.mp3
+/home/me/music/user48736353001/2-13 CooltempoDemo.mp3
+/home/me/music/user48736353001/2-14 19 Ssnb.mp3
+/home/me/music/user48736353001/2-15 2 Xame Filtered.mp3
+/home/me/music/user48736353001/2-16 13 Short Mental Afx.mp3
+/home/me/music/user48736353001/2-17 4 ACH.mp3
+/home/me/music/user48736353001/2-18 14 07 B.mp3
+/home/me/music/user48736353001/2-19 17 Alis Trak[brain floss mix].mp3
+/home/me/music/user48736353001/2-20 20 Vtnm.mp3
+/home/me/music/user48736353001/2-21 21 Vtnm2.mp3
+/home/me/music/user48736353001/2-22 7 Clapstab Ab6.mp3
+/home/me/music/user48736353001/2-23 8 World Waver Ab6.mp3
+/home/me/music/user48736353001/2-24 11 Donkey Rhubarb Remix.mp3
+/home/me/music/user48736353001/2-25 18 With My Family.mp3
+/home/me/music/user48736353001/2-26 1 nocares.mp3
+/home/me/music/user48736353001/2-27 7 ∂ƒ∆ [rough mix].mp3
+/home/me/music/user48736353001/2-28 2 ∂ƒx 126b.mp3
+/home/me/music/user48736353001/2-29 3 gerald Remix.mp3
+/home/me/music/user48736353001/2-30 12 Rough Beat Tune.mp3
+/home/me/music/user48736353001/2-31 13 High Hats Tune Tamclap Orig.mp3
+/home/me/music/user48736353001/2-32 16 Bpjdrop Forge [pump up the jam mix].mp3
+/home/me/music/user48736353001/3-01 71 1st bank Trac.mp3
+/home/me/music/user48736353001/3-02 11 Early Morning Clissold.mp3
+/home/me/music/user48736353001/3-03 12 Space Beat.mp3
+/home/me/music/user48736353001/3-04 13 barbarella on microdots.mp3
+/home/me/music/user48736353001/3-05 21 Hapshifter1.mp3
+/home/me/music/user48736353001/3-06 1 P - String.mp3
+/home/me/music/user48736353001/3-07 11 Slo Bird Whistle[peel Sesh].mp3
+/home/me/music/user48736353001/3-08 15 Bradley Jam Pump.mp3
+/home/me/music/user48736353001/3-09 1 70`s Tune.mp3
+/home/me/music/user48736353001/3-10 2tone[camborne college mix].mp3
+/home/me/music/user48736353001/3-11 ep string.mp3
+/home/me/music/user48736353001/3-12 Bellbrk.mp3
+/home/me/music/user48736353001/3-14 DroneBReak.mp3
+/home/me/music/user48736353001/3-15 Fork Rave.mp3
+/home/me/music/user48736353001/3-16 How Much I Wanted You.mp3
+/home/me/music/user48736353001/3-17 Lanner B4 Ardkore.mp3
+/home/me/music/user48736353001/3-19 2 Pcp 2 [unreleased Version].mp3
+/home/me/music/user48736353001/3-20 23 moodular3[live gig].mp3
+/home/me/music/user48736353001/3-21 14 Moodular Acid[pissflaps mix].mp3
+/home/me/music/user48736353001/3-22 9 leeds orbit[live].mp3
+/home/me/music/user48736353001/3-23 10 Shit Smothered.mp3
+/home/me/music/user48736353001/3-24 5 Acid Misc.mp3
+/home/me/music/user48736353001/3-25 8 Lush Ambulance 2.mp3
+/home/me/music/user48736353001/3-26 (vocoder disco).mp3
+/home/me/music/user48736353001/3-27 4 Ny Groove.mp3
+/home/me/music/user48736353001/3-28 6 Fly Beats.mp3
+/home/me/music/user48736353001/3-29 12 Phuqed Up.mp3
+/home/me/music/user48736353001/3-30 15 Twister.mp3
+/home/me/music/user48736353001/3-31 11 Phlangebeat.mp3
+/home/me/music/user48736353001/3-32 25 funnel.mp3
+/home/me/music/user48736353001/3-33 14 Make A Baby.mp3
+/home/me/music/user48736353001/3-34 26 5 [demo].mp3
+/home/me/music/user48736353001/3-35 8 Metal Beat.mp3
+/home/me/music/user48736353001/3-36 24 Afx 71 1.mp3
+/home/me/music/user48736353001/3-37 5 Girl Boy Dark Version.mp3
+/home/me/music/user48736353001/3-38 7 Cutting.mp3
+/home/me/music/user48736353001/3-39 5 sline.mp3
+/home/me/music/user48736353001/3-40 4 Red Calx.mp3
+/home/me/music/user48736353001/3-41 35 Japan.mp3
+/home/me/music/user48736353001/3-42 28 organ.mp3
+/home/me/music/user48736353001/3-43 37 [bicycle Wheel].mp3
+/home/me/music/user48736353001/4-02 6 Step Up To Cornwall.mp3
+/home/me/music/user48736353001/4-03 3 hollow alias ab6.mp3
+/home/me/music/user48736353001/4-04 4 how to science ab6.mp3
+/home/me/music/user48736353001/4-05 5 How To Science 2 Ab6.mp3
+/home/me/music/user48736353001/4-06 2 Dual Acid Ab6.mp3
+/home/me/music/user48736353001/4-07 4 Red Calx[slo].mp3
+/home/me/music/user48736353001/4-08 7 lsb [slo].mp3
+/home/me/music/user48736353001/4-09 19 [Slo]w early morning clissold sunrise.mp3
+/home/me/music/user48736353001/4-10 luke vibert spiral staircase [future music competition] [afx remix].mp3
 /home/me/music/Disc 1/Aphex Twin - 01 - Cliffs.mp3
 /home/me/music/Disc 1/Aphex Twin - 02 - Radiator.mp3
 /home/me/music/Disc 1/Aphex Twin - 03 - Rhubarb.mp3
@@ -355,6 +617,29 @@
 /home/me/music/Not Here, Not Now/06 Beauty.mp3
 /home/me/music/Not Here, Not Now/07 Sunday Night.mp3
 /home/me/music/Not Here, Not Now/08 Words.mp3
+/home/me/music/Massive Attack vs. Burial - Four Walls & Paradise Circus (Inhale Gold [INHALEGOLD001]) Video Rip - 2011/01 - Four Walls.mp3
+/home/me/music/Massive Attack vs. Burial - Four Walls & Paradise Circus (Inhale Gold [INHALEGOLD001]) Video Rip - 2011/02 - Paradise Circus.mp3
+/home/me/music/She Hangs Brightly/01 Halah.mp3
+/home/me/music/She Hangs Brightly/02 Blue Flower.mp3
+/home/me/music/She Hangs Brightly/03 Ride It On.mp3
+/home/me/music/She Hangs Brightly/04 She Hangs Brightly.mp3
+/home/me/music/She Hangs Brightly/05 I'm Sailin'.mp3
+/home/me/music/She Hangs Brightly/06 Give You My Lovin.mp3
+/home/me/music/She Hangs Brightly/07 By My Angel.mp3
+/home/me/music/She Hangs Brightly/08 Taste Of Blood.mp3
+/home/me/music/She Hangs Brightly/09 Ghost Highway.mp3
+/home/me/music/She Hangs Brightly/10 Free.mp3
+/home/me/music/She Hangs Brightly/11 Before I Sleep.mp3
+/home/me/music/So Tonight That I Might See/01 Fade Into You.mp3
+/home/me/music/So Tonight That I Might See/02 Bells Ring.mp3
+/home/me/music/So Tonight That I Might See/03 Mary Of Silence.mp3
+/home/me/music/So Tonight That I Might See/04 Five String Serenade.mp3
+/home/me/music/So Tonight That I Might See/05 Blue Light.mp3
+/home/me/music/So Tonight That I Might See/06 She's My Baby.mp3
+/home/me/music/So Tonight That I Might See/07 Unreflected.mp3
+/home/me/music/So Tonight That I Might See/08 Wasted.mp3
+/home/me/music/So Tonight That I Might See/09 Into Dust.mp3
+/home/me/music/So Tonight That I Might See/10 So Tonight That I Might See.mp3
 /home/me/music/Folk And Pop Sounds Of Sumatra Vol.2/13 Salam Pembukaan.mp3
 /home/me/music/Folk And Pop Sounds Of Sumatra Vol.2/09 Tanjuang Sani.mp3
 /home/me/music/Isn’t Anything (1988)/My Bloody Valentine - Isn’t Anything - 01 - Soft as Snow (But Warm Inside).flac
@@ -453,6 +738,7 @@
 /home/me/music/snakefinger - chewing hides the sound (1979)/10 Friendly Warning.mp3
 /home/me/music/snakefinger - chewing hides the sound (1979)/11 I Love Mary.mp3
 /home/me/music/snakefinger - chewing hides the sound (1979)/12 The Vultures of Bombay.mp3
+/home/me/music/user48736353001/MODULART8 [spectralmodblur2].wav
 /home/me/music/Squarepusher - Be Up A Hello (2020)/01. Oberlove.mp3
 /home/me/music/Squarepusher - Be Up A Hello (2020)/02. Hitsonu.mp3
 /home/me/music/Squarepusher - Be Up A Hello (2020)/03. Nervelevers.mp3

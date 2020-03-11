@@ -4,7 +4,7 @@ urxvt*letterSpace: 0
 
 !urxvt*font: xft:IBM Plex Mono:Regular:size=11, xft:RobotoMono Nerd Font:size=11
 !urxvt*boldFont: xft:IBM Plex Mono:Regular:size=11, xft:RobotoMono Nerd Font:size=11
-urxvt*font: xft:iA Writer Mono S:size=11, xft:Font Awesome:size=11
+urxvt*font: xft:iA Writer Mono S:size=11, xft:Font Awesome:size=11, xft:Powerline:size=11
 urxvt*scrollBar: false
 
 urxvt*internalBorder:  15
@@ -16,8 +16,7 @@ urxvt*perl-ext-common:       ...,font-size,default,matcher
 urxvt*url-launcher:        /usr/bin/brave
 urxvt*matcher.button:        1
 
-urxvt*depth: 32
-*background:  #08090a
+!urxvt*depth: 32
 !*foreground:  #ddccbc
 !*color0:  #573d26
 !*color1:  #be2e26
@@ -36,29 +35,62 @@ urxvt*depth: 32
 !*color14:  #93cfd7
 !*color15:  #ddccbc
 
+!!light mode gruvbox
+!! hard contrast: *background: #f9f5d7
+!*background: #fbf1c7
+!! soft contrast: *background: #f2e5bc
+!*foreground: #3c3836
+!! Black + DarkGrey
+!*color0:  #fdf4c1
+!*color8:  #928374
+!! DarkRed + Red
+!*color1:  #cc241d
+!*color9:  #9d0006
+!! DarkGreen + Green
+!*color2:  #98971a
+!*color10: #79740e
+!! DarkYellow + Yellow
+!*color3:  #d79921
+!*color11: #b57614
+!! DarkBlue + Blue
+!*color4:  #458588
+!*color12: #076678
+!! DarkMagenta + Magenta
+!*color5:  #b16286
+!*color13: #8f3f71
+!! DarkCyan + Cyan
+!*color6:  #689d6a
+!*color14: #427b58
+!! LightGrey + White
+!*color7:  #7c6f64
+!*color15: #3c3836
 
-*foreground: #ebdbb2
+
+*background:  #08090b
+*foreground: #b4a4d0
 ! Black + DarkGrey
-*color0:  #282828
-*color8:  #928374
+*color0:  #08090b
+*color8:  #827797
 ! DarkRed + Red
-*color1:  #cc241d
-*color9:  #fb4934
+*color1:  #fe4727
+*color9:  #fe4727
+!*color1:  #a04b48
+!*color9:  #a04b48
 ! DarkGreen + Green
-*color2:  #98971a
-*color10: #b8bb26
+*color2:  #417a85
+*color10: #417a85
 ! DarkYellow + Yellow
-*color3:  #d79921
-*color11: #fabd2f
+*color3:  #8962bf
+*color11: #8962bf
 ! DarkBlue + Blue
-*color4:  #458588
-*color12: #83a598
+*color4:  #404190
+*color12: #404190
 ! DarkMagenta + Magenta
-*color5:  #b16286
-*color13: #d3869b
+*color5:  #914784
+*color13: #914784
 ! DarkCyan + Cyan
-*color6:  #689d6a
-*color14: #8ec07c
+*color6:  #26308f
+*color14: #26308f
 ! LightGrey + White
-*color7:  #a89984
-*color15: #ebdbb2
+*color7:  #bbabd8
+*color15: #bbabd8

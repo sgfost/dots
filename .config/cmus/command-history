@@ -1,24 +1,27 @@
+add ~/music/
+add music/
+q
+?
+key
+help
 colorscheme green
+colorscheme green-mono-88
+colorscheme jellybeans
+colorscheme x
+colorscheme xterm-white
+colorscheme sol
+colorscheme night
+colorscheme gruvbox
 colorscheme gray-88
 colorscheme dracula
 colorscheme default
 colorscheme cyan
-colorscheme gruvbox
+add ~/music
 colorscheme zenburn
-colorscheme xterm-white
 colorscheme solarized-dark
-colorscheme sol
-colorscheme night
-colorscheme jellybeans
-colorscheme green-mono-88
 wq
 colorscheme gruvbox-alt
 colorscheme random
-q
-add ~/music/
-add ~/music
 update
-help
-?
 add /home/me/music
 add /home/me/music/
