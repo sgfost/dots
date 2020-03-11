@@ -122,10 +122,6 @@ esac
 
 [ -z "${PATH##*/sbin*}" ] || PATH=$PATH:/sbin:/usr/sbin
 
-# Add wechall profile
-
-export WECHALLUSER="sgfost"
-export WECHALLTOKEN="96F6B-59DF2-8B24E-9481E-53629-49B9E"
 
 # Add xdg (bspwm) path
 
