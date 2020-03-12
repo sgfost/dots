@@ -12,6 +12,9 @@ super + 1
 super + shift + r
   /home/me/.config/bspwm/bspwmrc
 
+# emacs
+super + e
+  emacs
 
 # terminal emulator
 super + Return
@@ -19,10 +22,6 @@ super + Return
 
 super + shift + Return
 	bspc rule -a \* -o state=floating && urxvt
-
-# terminal emulator (coding font)
-super + backslash
-  urxvt -fn 'xft:Iosevka:size=12' -fb 'xft:Iosevka:Bold:size=12'
 
 # rofi run
 super + slash

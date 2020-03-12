@@ -188,7 +188,7 @@ function parse_git_dirty {
 }
 
 # export PS1="\[\e[35m\]\W \[\e[m\]\`parse_git_branch\`\n\[\e[33m\]>\[\e[m\] "
-export PS1="\[\e[30;41m\] \W\`parse_git_branch\` \[\e[m\] \[\e[31m\]λ\[\e[m\] "
+export PS1="\[\e[32m\] \W\`parse_git_branch\` \[\e[m\] \[\e[31m\]λ\[\e[m\] "
 
 # blinking cursor
 

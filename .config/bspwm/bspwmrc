@@ -56,6 +56,7 @@ bspc rule -a "xwinwrap" state=floating
 bspc rule -a "net-runelite-launcher-Launcher" state=floating
 bspc rule -a "xfce4-panel" layer=above
 bspc rule -a "gifview" state=floating
+bspc rule -a Emacs state=tiled
 
 # titlebar script
 # /home/me/.scripts/title.sh &
