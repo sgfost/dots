@@ -1,7 +1,6 @@
 # configs
 
-desktop:
-![desktop](pictures/lightmode.png)
+![desktop](pictures/orange-accent.png)
 
-lockscreen: [lightdm-tiny-greeter](https://github.com/off-world/lightdm-tiny-greeter)
+[lightdm-tiny-greeter](https://github.com/off-world/lightdm-tiny-greeter)
 ![lockscreen](pictures/darkrice3.png)
