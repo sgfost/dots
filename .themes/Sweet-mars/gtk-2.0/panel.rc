@@ -1,0 +1,29 @@
+style "gtk-theme-config-panel" {
+	bg[NORMAL] = "#000000"
+	bg[PRELIGHT] = shade(1.1,"#000000")
+	bg[ACTIVE] = shade(0.9,"#000000")
+	bg[SELECTED] = shade(0.97,"#000000")
+	fg[NORMAL] = "#729fcf"
+	fg[PRELIGHT] = "#729fcf"
+	fg[SELECTED] = "#729fcf"
+	fg[ACTIVE] = "#729fcf"
+}
+
+widget "*PanelWidget*" style "gtk-theme-config-panel"
+widget "*PanelApplet*" style "gtk-theme-config-panel"
+widget "*fast-user-switch*" style "gtk-theme-config-panel"
+widget "*CPUFreq*Applet*" style "gtk-theme-config-panel"
+widget "*indicator-applet*" style "gtk-theme-config-panel"
+class "PanelApp*" style "gtk-theme-config-panel"
+class "PanelToplevel*" style "gtk-theme-config-panel"
+widget_class "*PanelToplevel*" style "gtk-theme-config-panel"
+widget_class "*notif*" style "gtk-theme-config-panel"
+widget_class "*Notif*" style "gtk-theme-config-panel"
+widget_class "*Tray*" style "gtk-theme-config-panel" 
+widget_class "*tray*" style "gtk-theme-config-panel"
+widget_class "*computertemp*" style "gtk-theme-config-panel"
+widget_class "*Applet*Tomboy*" style "gtk-theme-config-panel"
+widget_class "*Applet*Netstatus*" style "gtk-theme-config-panel"
+widget "*gdm-user-switch-menubar*" style "gtk-theme-config-panel"
+widget "*Xfce*Panel*" style "gtk-theme-config-panel"
+class "*Xfce*Panel*" style "gtk-theme-config-panel"
