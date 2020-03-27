@@ -4,9 +4,6 @@ R wm independent hotkeys
 
 
 
-##### MACROS ########
-super + 1
-	xdotool click 1
 
 # reload bspwmrc
 super + shift + r
@@ -25,7 +22,7 @@ super + shift + Return
 
 # rofi run
 super + slash
-	rofi -show run -theme darkpink -location 1 -yoffset 30
+	rofi -show drun -theme icons_full -no-lazy-grab -show-icons
 
 
 # rofi window
@@ -35,7 +32,7 @@ super + period
 
 # firefox
 super + i
-	brave
+	firefox
 
 # screenshot
 super + Print
@@ -75,7 +72,7 @@ super + BackSpace
 	bspc node -c
 
 # move focused window to the next workspace and then switch to that workspace
-super + shift + {Left,Right}
+super + {h,l}
 	id=$(bspc query --nodes --node); bspc node --to-desktop {prev,next}; bspc desktop --focus next; bspc node --focus ${id}
 
 # set the node flag to private
@@ -85,35 +82,35 @@ super + shift + {Left,Right}
 # === function keys ===
 
 # rotate windows
-super + F1
+super + 1
 	bspc node @/ -R 90
 
 # circulate windows
-super + F2
+super + 2
 	bspc node @/ -C forward
 
 # flip windows horizontal
-super + F3
+super + 3
 	bspc node @/ -F horizontal
 
 # flip windows vertical
-super + F4
+super + 4
 	bspc node @/ -F vertical
 
 # superernate between the tiled and monocle layout
-super + F5
+super + 5
 	bspc desktop -l next
 
 # balance windows
-super + F6
+super + 6
 	bspc node @/ -B
 
 # unbalance windows
-super + shift + F6
+super + shift + 6
 	bspc node @/ -E
 
 # Change window gap
-super + {F7,F8}
+super + {7,8}
 	bspc config -d focused window_gap $((`bspc config -d focused window_gap` {+,-} 2 ))
 	# TODO: keep top padding in line with current window gap
 	
@@ -126,8 +123,12 @@ super + shift + {w,a}
 	bspc node -z {top,left} -20 -20
 
 # set the window state
-super + {F9,F10,F11,F12}
+super + {f,t,p,F12}
 	bspc node -t {floating,tiled,pseudo_tiled,fullscreen}
+
+# focus workspace
+alt + {1,2,3,4,5,6,7,8}
+  bspc desktop -f {W1,W2,W3,W4,W5,W6,W7,W8}
 
 # === focus/swap ===
 
@@ -140,5 +141,5 @@ super + {w,a,s,d}
 	bspc node -f {north, west, south, east}
 
 # focus the next/previous desktop
-super + {Left,Right}
+super + {j,k}
 	bspc desktop -f {prev,next}

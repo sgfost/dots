@@ -1,14 +1,15 @@
 * {
   bg: #08090b;
   fg: #b4a4d0;
-  pink: #fe4727;
-  font: "iAWriter Mono S 11";
+  pink: #f43e5c;
+  font: "IBM Plex Sans Regular 11";
   background-color: @bg;
   text-color: @fg;
   width: 108px;
   columns: 1;
   lines: 10;
   padding: 2px;
+  border-radius: 15px;
 }
 
 #element selected {

@@ -188,7 +188,7 @@ function parse_git_dirty {
 }
 
 # export PS1="\[\e[35m\]\W \[\e[m\]\`parse_git_branch\`\n\[\e[33m\]>\[\e[m\] "
-export PS1="\[\e[32m\] \W\`parse_git_branch\` \[\e[m\] \[\e[31m\]λ\[\e[m\] "
+export PS1="\[\e[36m\]\W\`parse_git_branch\` \[\e[m\] \[\e[31m\]λ\[\e[m\] "
 
 # blinking cursor
 
@@ -207,6 +207,10 @@ alias cd..='cd ..'
 
 alias r='/usr/bin/ranger'
 
+# auto-completion extension
+[[ $PS1 && -f /usr/share/bash-completion/bash_completion ]] && \
+    . /usr/share/bash-completion/bash_completion
+
 # zsh-like partial completion - https://github.com/sio/bash-complete-partial-path
 
 if [ -s "$HOME/.config/bash-complete-partial-path/bash_completion" ]
@@ -224,3 +228,6 @@ export EDITOR=nvim
 
 # todo program
 alias todo='/home/me/programs/todo/todo.sh'
+
+# doom alias
+alias doom='/home/me/.emacs.d/bin/doom'

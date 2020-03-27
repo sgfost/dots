@@ -14,7 +14,7 @@ static const gchar *style =
     "background-size: cover;"
 "}"
 "window * {"
-    "font: 16px \"RobotoMono Nerd Font\";"
+    "font: 16px \"iA Writer Mono S\";"
 "}"
 "#prompt_box {"
     "background-color: #08090a;"

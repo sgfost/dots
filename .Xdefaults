@@ -66,31 +66,30 @@ urxvt*matcher.button:        1
 !*color15: #3c3836
 
 
-*background:  #08090b
+!*background:  #08090b
+*background:  #1a1e21
 *foreground: #b4a4d0
 ! Black + DarkGrey
 *color0:  #08090b
 *color8:  #827797
 ! DarkRed + Red
-*color1:  #fe4727
-*color9:  #fe4727
-!*color1:  #a04b48
-!*color9:  #a04b48
+*color1:  #f43e5c
+*color9:  #f43e5c
 ! DarkGreen + Green
-*color2:  #417a85
-*color10: #417a85
+*color2:  #09F7A0
+*color10: #09F7A0
 ! DarkYellow + Yellow
-*color3:  #8962bf
-*color11: #8962bf
+*color3:  #fab28e
+*color11: #fab28e
 ! DarkBlue + Blue
-*color4:  #404190
-*color12: #404190
+*color4:  #6c6f93
+*color12: #6c6f93
 ! DarkMagenta + Magenta
-*color5:  #914784
-*color13: #914784
+*color5:  #e9436f
+*color13: #e9436f
 ! DarkCyan + Cyan
-*color6:  #26308f
-*color14: #26308f
+*color6:  #21bfc2
+*color14: #21bfc2
 ! LightGrey + White
 *color7:  #bbabd8
 *color15: #bbabd8

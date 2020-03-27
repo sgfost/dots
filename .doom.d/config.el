@@ -35,6 +35,12 @@
 (setq display-line-numbers-type 'relative)
 
 
+;; Company autocomplete
+(require 'company)
+(setq company-idle-delay 0.2
+      company-minimum-prefix-length 2)
+
+
 ;; Here are some additional functions/macros that could help you configure Doom:
 ;;
 ;; - `load!' for loading external *.el files relative to this one

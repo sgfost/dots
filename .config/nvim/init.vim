@@ -28,7 +28,7 @@ set guicursor+=n:blinkon1
 
 " my colors
 syntax on
-colorscheme gruvbox
+"colorscheme gruvbox
 "set background=light
 hi Normal ctermbg=NONE
 " hi Comment ctermfg=0
