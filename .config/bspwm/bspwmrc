@@ -1,39 +1,14 @@
 #! /bin/sh
 
+# Startup stuff, that im too lazy to put elsewhere
 sxhkd &
-
-# picom --config /dev/null -r 15 -l -15 -t -15 -o .7 -c
-
-# picom --config /dev/null -r 10 -l -10 -t -10 -c -o 1 --shadow-red 0 \
-# --shadow-green 0 --shadow-blue 0 -b --shadow-exclude "class_g='Rofi'"
-# nitrogen --head=0 --set-color=#05221e --set-zoom-fill ~/pictures/papes/desktop/2b0c4524fc741c59.jpg
-# nitrogen --head=1 --set-color=#05221e --set-zoom-fill ~/pictures/papes/desktop/2b0c4524fc741c59.jpg
-# polybar main &
-# polybar external &
-# nm-applet &
-# dunst &
-# xfce4-power-manager &
-# 
-
-# internet logs shit
-# coxpacketloss &
-
-# xrandr --output VGA-1 --mode 1280x1024 --pos 0x0 --rotate normal --output LVDS-1 --mode 1600x900 --pos 1280x0 --rotate normal
-
 picom -b
-
 xset r rate 400 44
 xsetroot -cursor_name left_ptr
 setxkbmap -option caps:escape
-# /home/me/.config/polybar/launch.sh
 
-# load wal colors
-# wal -R
-
-#bspc monitor VGA-1 -d あ い
 bspc monitor VGA-1 -d あ い
-#bspc monitor LVDS-1 -d う え お か
-bspc monitor LVDS-1 -d う え お ' か '
+bspc monitor LVDS-1 -d う え お ' か ' # pad with spaces
 bspc config border_width        0
 bspc config window_gap          15
 bspc config border_radius       15
@@ -68,6 +43,4 @@ bspc rule -a "net-runelite-launcher-Launcher" state=floating
 bspc rule -a "xfce4-panel" layer=above
 bspc rule -a "gifview" state=floating
 bspc rule -a Emacs state=tiled
-
-# titlebar script
-# /home/me/.scripts/title.sh &
+bspc rule -a Zoom state=floating

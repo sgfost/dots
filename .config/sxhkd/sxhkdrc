@@ -75,9 +75,6 @@ super + BackSpace
 super + {h,l}
 	id=$(bspc query --nodes --node); bspc node --to-desktop {prev,next}; bspc desktop --focus next; bspc node --focus ${id}
 
-# set the node flag to private
-#super + p
-#bspc node -g private
 
 # === function keys ===
 
